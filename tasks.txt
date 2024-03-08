@@ -1,5 +1,0 @@
-admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
-Matt;Capstone Project;Complete assignment;2024-02-28;2024-02-26;No
-Jose;Presentation;Write out script;2024-02-28;2024-02-27;Yes
-Matt;blah;blah;2024-02-24;2024-02-27;No
-Josey;Make a cake;make a cake in an oven;2024-09-25;2024-02-27;No
