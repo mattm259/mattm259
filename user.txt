@@ -1,5 +1,0 @@
-admin;password
-Matt;Mattyboyyy
-Jose;Jnorth
-Matty;Meds
-Josey;nothanks
